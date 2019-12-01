@@ -1,0 +1,1 @@
+// importScripts('bower_components/sw-toolbox/sw-toolbox.js'); // Update path to match your own setup

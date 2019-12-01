@@ -1,0 +1,19 @@
+{
+  "name": "alf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^1.6.0",
+    "parcel": "^1.12.4",
+    "sw-toolbox": "^3.6.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
