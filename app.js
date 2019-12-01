@@ -26,18 +26,21 @@ contentBox.querySelector('button').addEventListener('click', () => {
 data.forEach(artwork => {
   var el = document.createElement('div');
   el.className = 'marker';
-  el.style.backgroundImage = 'url("https://amsterdamlightfestival.com/storage/'+artwork.icon+'")';
-  el.addEventListener('click', () => {
+  // el.style.backgroundImage = 'url("https://amsterdamlightfestival.com/storage/'+artwork.icon+'")';
+  // el.
+
+  // make a marker for each feature and add to the map
+  const marker = new mapboxgl.Marker()
+    .setLngLat([artwork.location.lng, artwork.location.lat])
+    .addTo(map);
+    
+  marker.getElement().addEventListener('click', () => {
     contentBox.classList.remove('closed');
     contentEl.innerHTML = `
       <h2>${artwork.title}</h2>
       ${artwork.description}
     `;
   });
-
-  // make a marker for each feature and add to the map
-  new mapboxgl.Marker(el)
-    .setLngLat([artwork.location.lng, artwork.location.lat])
-    .addTo(map);
+    
 });
 
