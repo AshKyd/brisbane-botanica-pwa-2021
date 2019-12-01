@@ -40,4 +40,3 @@ data.forEach(artwork => {
     .addTo(map);
 });
 
-navigator.serviceWorker.register('./service-worker.js');
