@@ -7,6 +7,8 @@ body {
   height: 100vh;
   width: 100%;
   font-family: sans-serif;
+  background: black;
+  color: white;
 }
 .app{
   display: flex;
@@ -17,7 +19,6 @@ body {
 .app__body{
   flex:1;
   position: relative;
-  background: green;
 }
 #map {
   height: 100%;
