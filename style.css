@@ -36,8 +36,8 @@ body {
 }
 .content button {
   position: absolute;
-  right: 4vw;
-  top: 4vw;
+  right: 32px;
+  top: 32px;
   font-size: 30px;
   background: white;
   color: black;
