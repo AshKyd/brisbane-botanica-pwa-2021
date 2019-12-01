@@ -3,7 +3,7 @@
   "short_name": "Light Map",
   "theme_color": "#ffffff",
   "background_color": "#000000",
-  "display": "browser",
+  "display": "minimal-ui",
   "Scope": "/",
   "start_url": "/",
   "icons": [
