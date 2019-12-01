@@ -9,15 +9,13 @@ body {
   font-family: sans-serif;
 }
 #map {
-  height: 50vh;
-  width: 50%;
-  transform-origin: left top;
-  transform:scale(2);
+  height: 100vh;
+  width: 100%;
 }
 .marker {
   background-size: cover;
-  width: 50px;
-  height: 50px;
+  width: 32px;
+  height: 32px;
   border-radius: 50%;
   cursor: pointer;
   background-size: cover;
@@ -53,7 +51,7 @@ body {
 }
 
 .content.closed {
-  transform: translatex(100%);
+  transform: translatex(-100%);
   opacity: 0;
 }
 

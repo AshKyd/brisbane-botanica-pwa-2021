@@ -14,6 +14,7 @@ map.addControl(new mapboxgl.GeolocateControl({
 }));
 
 map.setStyle('mapbox://styles/mapbox/dark-v10');
+map.fitBounds([4.9435,52.3556,4.8865,52.3792]);
 
 const contentBox = document.querySelector('.content');
 const contentEl = document.querySelector('.content__el');
