@@ -1,202 +1,245 @@
-[
-  {
-    "id": 244,
-    "title": "The Cracks",
-    "icon": "artworks/November2019/Cracks.png",
-    "description": "<p>Even though our western civilisation mostly celebrates the &lsquo;uncracked&rsquo; and perfect, Karolina Howorko noticed that embracing imperfection is a common theme in for instance kintsugi, the Japanese art of repairing broken ceramics with gold or silver lacquer. The ancient philosophy behind this practice is that cracks demonstrate an object&rsquo;s history, act as a (warning) sign for acting forces and generate unique and beautiful patterns on an item &ndash; in the words of the poet, they let the light in.</p>\n<p>Like Japanese artisans used to do, Howorko turns the cracks that can be seen on the the old Montelbaan tower (1516) into an artwork. Using slides, color filters and lamps, she creates illuminated cracks that are slowly taking over the surface, as if revealing pieces of a story that&rsquo;s hidden within the tower. For Howorko, the artwork symbolises something much bigger: the large disruptive forces in modern society, which cause climate systems, institutions, assumptions and traditions to shake, crack and at times even fall apart. Visualising these disruptions can highlight the important transformations that they set in motion, as well as the new opportunities that arise with repairing or replacing, and perhaps it even shows us prospects for a new world.</p>",
-    "location": {
-      "lat": "52.372020643867",
-      "lng": "4.9056339795761"
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "artist": "Hiromi Tango",
+        "name": "Artwork: Heartbeat (2021)",
+        "description": "<p>Artist statement: Heartbeat transforms the kiosk in the heart of the City Botanic Gardens through a vibrant projection and textile installation.</p><p>In a year where we have all been affected by the stress and uncertainty of the global pandemic, Heartbeat creates an uplifting sensory encounter. The rainbow colours are a beacon of hope, optimism and life. Red, orange and yellow emanate warmth and energy, while blue and green create a feeling of deep calm and wellness. It is Hiromi's hope that Heartbeat will provide a moment of peaceful reflection and happiness for all who encounter it.</p>",
+        "media": "Materials: Mixed media, textile, neon, LED, light box, projection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02995651960373,
+          -27.47430400319192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "artist": "Simone Eisler",
+        "name": "Artwork: Museum of our lost world (2021)",
+        "description": "<p>Artist statement: Simone chose the formal flower garden as a site for her work for its symbolic power. As a highly designed folly in the shape of a flower, it reminds us that the City Botanic Gardens is a constructed space - a museum of nature that celebrates its diversity.</p><p>Now a lifeless ossuary of bleached cast skeletal remains of animals, fish and coral, the deathly site references the garden's early history as a zoo, but more importantly, our dangerous future. Simone sees this graveyard as a prescient foreboding of a dying world caused by the folly of human-induced climate change.</p>",
+        "media": "Materials: Cast gypsum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.03060561418533,
+          -27.474532454506342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "artist": "Esem Projects (E/P)",
+        "name": "Artwork: Superorganism (2021)",
+        "description": "<p>Artist statement: Step inside the canopy of the Tipuana tipu tree. Lie down, look up and listen in to past, present, and future sounds of our fragile and complex ecosystems.</p><p>Informed by the ideas of James Lovelock, creator of the Gaia hypothesis, Superorganism resonates with a vast spectrum of founds from natural to artificial, from historical recordings to machine intelligence.</p><p>Taking place at a pivot point in the history of our planet, during an era of mass extinction and loss of biodiversity, Superorganism invites audiences to reflect on what we are losing, what we gain by paying attention, and what uncertain futures lie ahead.</p>",
+        "media": "Materials: Audio and light installation, steel, soft furnishings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0311232805252,
+          -27.47598168149878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "artist": "Paul Bai",
+        "name": "Artwork: On Top of the World (2020)",
+        "description": "<p>Artist statement: On Top of the World (No. 3) has several conceptual dimensions. Firstly, it responds to Piero Manzoni's 1961 sculpture inscribed with the words \"The Base of the World, Homage to Galileo\" — placed upside down in a field in Herning, Denmark.</p><p>As Australia is often regarded as the 'bottom' of the world, this artwork challenges the definitions of 'top' and 'bottom' in the context of spatial positions.</p><p>The work underlines humanity's struggle with orientation in the world, suggesting to be 'on top of the world' is to be on the ground, and directly connected to the earth.</p>",
+        "media": "Materials: Chalk on grass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.03092747926712,
+          -27.476514725712356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "artist": "Charlotte Haywood",
+        "name": "Artwork: Here + Now (2021)",
+        "description": "<p>Artwork statement: What are the 'signs' in the landscape?</p><p>What smells, sounds or sights keep us present, signalling the time of day, season, a moment in an ecological cycle, or our interconnection?</p><p>Drawing our attention to the thresholds of time and place, Here + Now asks through what lens do you see the significant pointers in our landscape?</p><p>The work is a whacky blend of pop botanica, 'utopia' and phenomena. It highlights the authority of Indigenous ecological knowledge, the democratisation of science through agency, and the significance of the relationship between community and ecology. Its goal is to highlight nature's equity that nurtures all.</p>",
+        "media": "Materials: Bamboo, LED, neon light, plumbing clamps, steel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0301469564438,
+          -27.47562473080692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "artist": "Jenna Lee",
+        "name": "Artwork: Breathing Spaces (2019)",
+        "description": "<p>Artwork statement: Through acts of understanding, deconstruction and reconstruction, Breathing Spaces looks to recontextualise historic words about public spaces, to include knowledge of place long known as truth to First Nations Peoples.</p><p>By deconstructing the words of historic texts and rearranging them into a poem that includes First Nations' understandings of nature, water, place and space, this work hopes to weave perspectives back into the public knowledge of the area.</p><p>While diving into history can sometimes cause heartache, this works aims to demonstrate how understanding and reflecting on our collective past, we can take the newly dissected parts and create something new and beautiful.</p>",
+        "media": "Materials: Projection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02978485822678,
+          -27.47503932916882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "artist": "Kellie O'Dempsey",
+        "name": "Artwork: What did you say? (2021)",
+        "description": "<p>Artwork statement: On the epidermis of a tree's leaves, microscopic pores called stomata exchange carbon dioxide for oxygen. The world 'stomata' comes from the Greek word 'stoma' meaning 'mouth'. What did you say? reimagines a tree's stomata as the mouth through which the planet breathes.</p><p>Some mouths breathe with ease; others struggle to catch their breath; a silent few are deathly still. Viewers are asked to listen and engage in deep, conscious breathing, to be present in the moment, to connect, consider and rest.</p><p>Using augmented reality, projected imagery and a soundscape of breathing, the artwork responds to our strange and ever-shifting social and environmental climate.</p>",
+        "media": "Materials: Projection and sound installation with augmented reality animation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02878975868225,
+          -27.474967938512368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "artist": "Georgie Pinn",
+        "name": "Artwork: Ripple (2021)",
+        "description": "<p>Artwork description: Ripple is an immersive audiovisual experience that is projection-mapped on the lagoon surface. As the audience navigates through the physical transformation of water via a touch screen, from ice to vapour (fear to truth), they experience different metaphors for the states of human emotion.</p><p>The work explores water as a metaphor for the subconscious, linking interactive animation and sound to the expressions of the audience, nurturing empathy for nature and highlighting the vulnerability and strength in shared human emotion.</p><p>On the weekends, the installation will be accompanied by roving performances from Theatre of Thunder and a musical Acknowledgement of Country from the electro/hip-hop music duo, Kairos Kin.</p>",
+        "media": "Materials: Interactive audio-visual installation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0287066102028,
+          -27.474254029403756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botanica info point",
+        "description": "Meet here for Botanica tours and walks, some drop-in events and the Children's Discovery Trail."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0291786789894,
+          -27.473511559023983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "artist": "Georgia Hillas",
+        "name": "Artwork: Aim Higher (2021)",
+        "description": "<p>Artwork statement: Palm Circle is temporarily transformed into a public sports arena, reminiscent of the historic use of the land it encircles.</p><p>Aim Higher invites everyone to shoot netballs into macrame hoops mounted at various heights ranging from achievable to unrealistic — uniting audiences from diverse demographics on a level playing field. In contrast to the historical inequalities for women in sporting and art domains, Aim Higher manifests a symbolic, ideological space of parity.</p><p>The work represents women throughout history who have utilised their crafts to aim higher than society deemed reasonable; to stride closer towards equality with traditionally masculine domains.</p>",
+        "media": "Materials: Netball rings, cotton macrame, rope, netballs, Cuban royal palms (Roystonea regia), hammocks, UV black lights, neon dye, textiles and other materials"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02992165088654,
+          -27.47313794222917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botanica stage",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0299350619316,
+          -27.473649582742382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botanica bar",
+        "description": "The Botanica bar will open on Friday, Saturday and Sunday nights as part of the Botanica Live Nights program."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02979290485382,
+          -27.47350441986142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botanica live event - Hide and Seek Shelter",
+        "description": "<p>Wander the gardens after dark to discover a series of native animal projections.</p><p>In response to the 2020 bushfire season, this playful work seeks to encourage discussion around where animals can seek shelter when fire threatens their habitat. Wander the gardens and see if you can spot them all.</p><p><strong>Dates and times</strong></p><p>Every night from Friday 7 May until Sunday 16 May, from 5-9pm</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02982240915298,
+          -27.475289196102143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botanica live event - Letters to the Gardens",
+        "description": "<p>Write a letter to the gardens and contribute to the growing wall of sentiment.</p><p>If you could communicate with the gardens, what would you say?</p><p>Drop-in anytime to write your letter to the gardens and then pin it to the growing wall of sentiment.</p><p>The process begins with hand-making the paper, by mixing fibre pulp and waste from the gardens. Roll up your sleeves, wash your hands and get involved to make the paper, or use some prepared earlier.</p><p>Watch as the wall of thoughts and opinions grow throughout the exhibition and then are returned to the earth in the form of compost to continue to nurture the gardens.</p><p>This event is supported by the Queensland University of Technology.</p><p><strong>Dates and times</strong></p><p>Every day from 5-10pm</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0299350619316,
+          -27.47581272498211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botanica live event - Pavilion Designs Display",
+        "description": "<p>QUT students reimagine potential pavilion designs in this temporary exhibition.</p><p>This event is supported by Queensland University of Technology.</p><p><strong>Date and time</strong></p><p>Friday 14 May 2021, 5-10pm</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02938520908353,
+          -27.47403271664086
+        ]
+      }
     }
-  },
-  {
-    "id": 245,
-    "title": "Feel like the Kardashians",
-    "icon": "artworks/November2019/Feel-like-the-kardashians.png",
-    "description": "<p>The paparazzi in Azra&rsquo;s artworks are reduced to black silhouettes that stand out slightly against the dark night. Passing boats activate the flashing of the cameras via sensors. The surprise effect, in addition to taking place in a location where you might not expect it, mimics real-life paparazzi. Feel Like the Kardashians allows you to experience what it&rsquo;s like to be famous, when you might be &lsquo;caught&rsquo; by the paparazzi on every street corner, at any time of the day.</p>\n<p>Azra chose the Kardashians in the title as they represent a new type of fame; the Kardashians &ndash; that is, all members of the American families Kardashian and Jenner &ndash; are famous for being famous and have no special talents. Since their reality show Keeping Up with the Kardashians was broadcast on American TV in 2007, the Kardashian family, especially Kim Kardashian, has become the largest and richest family in the world of showbiz. The family enjoys a degree of celebrity that was previously reserved for members of a royal family or successful actors and musicians. The rise of the Kardashians demonstrates that everyone can become famous by sharing as many photographs and videos publicly as they can.</p>\n<p>In Feel Like the Kardashians Azra hopes that the audience will embrace the uncomfortable experience of the blinding, flashing lights in the same way that the Kardashians would. The Kardashians understand, like no one else, the darker side of being famous &ndash; the disruption of private life thanks to the continuous pursuit of the paparazzi &ndash; yet have used this to their advantage. The more photographs they take and share, the more famous the family becomes.</p>",
-    "location": {
-      "lat": "52.362243242642",
-      "lng": "4.9035847718887"
-    }
-  },
-  {
-    "id": 246,
-    "title": "All the light you see",
-    "icon": "artworks/November2019/All-the-light-you-see.png",
-    "description": "<p>Exactly that is the focus of Alicia Eggert&rsquo;s artwork 'All the Light You See'. As in many of her works, Eggert uses a poetic statement written in light that changes meaning with a small intervention. Part of the text in &lsquo;All the Light You See is From the Past&rsquo; occasionally switches off, making her message even simpler, &lsquo;All You See is Past&rsquo;. 'All the Light You See' is therefore a memento mori (Latin for &lsquo;reflection on mortality&rsquo;), an artwork that reminds us that in a short while, we too will belong to the past.</p>\n<p>This work draws your attention much like neon signs, which were popular between the 1920s and 1960s (think of the billboards in Las Vegas). But Eggert doesn&rsquo;t use it to sell a product or a service. She hopes to make you aware of the enormous amount of light that bombards you from all angles and overloads you with information.</p>",
-    "location": {
-      "lat": "52.373759713654",
-      "lng": "4.9141258533173"
-    }
-  },
-  {
-    "id": 247,
-    "title": "Nobody",
-    "icon": "artworks/November2019/Nobody.png",
-    "description": "<p>He placed a robot arm in a greenhouse and programmed it to perform a continuous, graceful dance with defined movements. By positioning a bright light behind it, an enlarged shadow play is created that can be watched on the &lsquo;bow&rsquo; of NEMO Science Museum &ndash; a modern figurehead, as it were.</p>\n<p>The title given to the installation by Lester, Nobody, says a lot about its meaning. It is the English translation of the Latin word &lsquo;nemo&rsquo; &ndash; not exactly a coincidence that this is also the name of the science museum. With this work, Lester asks the question of whether man is still &lsquo;someone&rsquo; of significance in a world that is increasingly controlled (or dominated) by technology. We design, build and program all kinds of complex machines and robots, so you could say that we provide the service[MvdK2] . But those same robots can perform many tasks more precisely and faster than we can, making us gradually useless or unnecessary. We have a supporting role in a world that revolves around innovation, efficiency and increasing production. So, the question is, who actually pulls the strings these days?</p>\n<p>At the same time, Nobody also attempts to show us the beauty and poetry that exists in the modern technology surrounding us. The robot arms resemble something human in their movements, something touching, as if their maker has given them something of himself</p>\n<p>SUPPORTED BY:&nbsp;<a class=\"button4\" href=\"https://www.nemosciencemuseum.nl/\" target=\"_blank\" rel=\"noopener noreferrer\">NEMO Science Museum</a>&nbsp;|&nbsp;<a class=\"button4\" href=\"http://www.rolan-robotics.nl/\" target=\"_blank\" rel=\"noopener noreferrer\">Rolan Robotics</a></p>",
-    "location": {
-      "lat": "52.374774958144",
-      "lng": "4.9125111634903"
-    }
-  },
-  {
-    "id": 248,
-    "title": "Order/Disorder",
-    "icon": "artworks/November2019/Orderdisorder.",
-    "description": "<p>The rotating rings are reminiscent of the rings you might find around planets Jupiter or Saturn or the electrons circling an atom. The slow movement of the circles is almost hypnotising: at one moment they create an ordered pattern and then intersect in a disorderly manner the next. Order and chaos endlessly follow each other in this kinetic work of art.&nbsp;</p>\n<p>&nbsp;</p>\n<p>For the artist, the moving rings represent the dynamic and rapidly-evolving world that we live in. Although we as humans sometimes lose control and let chaos prevail, moments of peace and clarity always follow. Kamps believes that order and chaos keep each other in balance like two sides of the same coin. We don&rsquo;t have to fear change because the world&rsquo;s systems are incredibly adaptable; after chaos, order will be restored.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Order/disorder has no beginning and no end. The movement is a constant rhythm with no end goal. The timelessness in the work is reminiscent of a dynamic work of light art that Kamps previously created for Amsterdam Light Festival; Touch of Time, a digital clock made of light tubes that slid in and out of each other, that would either accurately display the time or change into a geometric pattern.&nbsp;</p>\n<p>&nbsp;</p>",
-    "location": {
-      "lat": "52.365928446954",
-      "lng": "4.9088445837669"
-    }
-  },
-  {
-    "id": 249,
-    "title": "Atlantis",
-    "icon": "artworks/November2019/Atlantis.png",
-    "description": "<p>The rise in sea levels and increase in extreme weather conditions around the world are demonstrable consequences of the way we recklessly interact with our planet &ndash; if we&rsquo;re not careful, Amsterdam might one day be underwater. Utskottet drew inspiration from all over the world for the skyscrapers. If you look closely you might recognise some famous buildings like New York&rsquo;s Empire State Building, the Ministry of Foreign Affairs tower in Egypt, the BSA Twin Towers in the Philippines, or, a little closer to home, Amsterdam&rsquo;s A&rsquo;dam Tower.</p>\n<p>Utskottet chose buildings from different cities to form a global cityscape &ndash; after all, the threat of total demise concerns us all. The title of the artwork, Atlantis, refers to the mythical narrative of an island empire that disappeared following a series of natural disasters. First written about by Greek philosopher and writer Plato (427-347 BC), the story details how Atlantis vanished underwater as the result of earthquakes and tidal waves.</p>\n<p>Utskottet fears the repetition of this doom scenario. Because even though we are reminded in the news and media of the climate crisis time and time again, we do not seem too concerned by it. With this artwork, the artists hope to highlight the potential consequences with the representation of a lost city.</p>",
-    "location": {
-      "lat": "52.368119769373",
-      "lng": "4.8993307883911"
-    }
-  },
-  {
-    "id": 250,
-    "title": "Between the lines",
-    "icon": "artworks/November2019/Between-the-lines.png",
-    "description": "<p>Perhaps with managing Har Hollands&rsquo; light lines, which mimic the construction of the crane&rsquo;s arm. The soft yellow lines light up alternatingly and together form a variety of spatial patterns. They disrupt the structure of the crane as we know it in a surprising way, and suddenly transform the old industrial monument into a work of light art.</p>\n<p>The crane, which dates back to 1951, now stands unused on the docks, but that wasn&rsquo;t always the case. Until the 1970s, like several other cranes in the area, it was used to lift goods in and out of ships, which were then transported by carts or trolleys. These goods were stored in one of the many warehouses along the docks, the first of which were built in the early 18th century. After a long period of decline, the warehouses started to be converted into homes in the 1980s, and only the cranes bear witness to the area&rsquo;s past.</p>\n<p>With Between the Lines Holland demonstrates that the crane can be much more than a retired machine. For Hollands, elements and rhythms in urban constructions, which often go unnoticed in our day to day, form the basis of a magical play of light. The city comes to life in a new way in &lsquo;the domain of the fantasy&rsquo;, as Hollands beautifully describes the night.</p>",
-    "location": {
-      "lat": "52.367795499814",
-      "lng": "4.9168134267502"
-    }
-  },
-  {
-    "id": 251,
-    "title": "End over end",
-    "icon": "artworks/November2019/End-over-End.png",
-    "description": "<p>And that&rsquo;s how the spiral-shaped &lsquo;stair walker&rsquo; was born, in the home of mechanical engineer Richard James in 1943. Shortly after James and his wife marketed the toy in 1945, it became an immensely popular gift that Christmas season. Since then, the number of Slinkys sold could circle the earth 150 times! Now an enormous, rainbow-coloured Slinky &lsquo;walks&rsquo; from the old porter&rsquo;s house located at the entrance of the ARTIS zoo, as though it were put there by a giant hand.</p>\n<p>In line with most of Studio Vertigo&rsquo;s work, this installation turns your world upside down. The artwork is nostalgic &ndash; who didn&rsquo;t place a Slinky on the stairs as a child? &ndash; while being surrealistic. The proportions are reversed and it feels like you have shrunk and have ended up in Alice&rsquo;s Wonderland. The porter&rsquo;s house has become a step and the street and the surrounding buildings a playground. Art doesn&rsquo;t have to be exhibited in a museum or in a gallery to be meaningful, a thought that became popular amongst artists in the 1960s. When placed in other locations, like on the street, an artwork like Slinky can disrupt your daily routine or throw you off in a surprising way, allowing you to see the city in a whole new way.</p>\n<p>SUPPORTED BY:&nbsp;<a class=\"button4\" href=\"https://www.artis.nl/\" target=\"_blank\" rel=\"noopener noreferrer\">ARTIS</a></p>",
-    "location": {
-      "lat": "52.367230478986",
-      "lng": "4.9126667316132"
-    }
-  },
-  {
-    "id": 252,
-    "title": "Hiding in the wolf's lair",
-    "icon": "artworks/November2019/Hiding-in-the-wolfs-lair.png",
-    "description": "",
-    "location": {
-      "lat": "52.364542846193",
-      "lng": "4.9197370345764"
-    }
-  },
-  {
-    "id": 253,
-    "title": "Nacht tekening",
-    "icon": "artworks/November2019/Nachttekening.png",
-    "description": "<p>Krijn de Koning, who started out drawing, questioned whether you can create a new image with existing lines of light. He took the iconic shape of the Skinny Bridge &ndash; the four arches on either side of the middle passage and the lines of the drawbridge &ndash; mixed them up and placed them back on the bridge. By accentuating the forms of the bridge, drawing lines of light and erasing others, De Koning gives the Skinny Bridge a whole new look.</p>\n<p>The artwork has two faces: during the day, the image of Amsterdam&rsquo;s most famous bridge remains intact, but when night falls and the lights turn on, it is completely disrupted. The monumental light drawing distorts, distances, and comments on the existing image of the bridge as we know it. With this two-dimensional play of forms and light lines, De Koning has succeeded in turning the Skinny Bridge into an abstract drawing. Nacht Tekening fits in with Krijn de Koning&rsquo;s series of large site-specific (and often temporary) interventions and works in the public space. Working with light was new for de Koning, as was the fact that the artwork could only be seen at night.</p>\n<p>The fact that the Skinny Bridge was such an important tourist attraction in Amsterdam was also a new experience for De Koning, but it was what drew him to create an intervention at this exact spot. Realising the design on such a large scale was a challenge, especially taking into consideration that the drawbridge has to continue to open for boat traffic during the duration of the festival.</p>",
-    "location": {
-      "lat": "52.363563400054",
-      "lng": "4.902367048996"
-    }
-  },
-  {
-    "id": 254,
-    "title": "De Nachtloerrrders",
-    "icon": "artworks/November2019/Nachtloerrrders.png",
-    "description": "<p>The twenty pairs of constantly changing eyes in this artwork escaped from the imaginations of hundreds of Amsterdam school children (aged 8-12 years old) who were invited to collaborate with the 72andSunny Creative Collective, the artists responsible for it&rsquo;s conception. These eyes are here to show us a possible future evolution, one that we humans could soon be faced with if we continue disturbing animal habitats with our ever expanding cities that light up the night skies.</p>\n<p>They suggest a potential greater biodiversity lurking in our neighbourhood with much more life found outside the zoo gates than within. Like all nocturnal animals, all we can see are their glowing eyes, leaving the rest to our imaginations. How does this make us feel? Are we scared by these mysteriously shaped eyes lighting up the gloom? And how will they feel towards us? Are they friend or foe? Questions we may ask more often as more creatures adapt to our concrete urban jungle.</p>\n<p>&lsquo;De Nachtloerrrders&rsquo; is part of Amsterdam Light Festival&rsquo;s school project that in collaboration with Juf op Straat has been organised annually since 2012. During a series of workshops, primary school children work with an artist on a work of light art that will be exhibited during the festival. The &lsquo;De Nachtloerrrders&rsquo; workshops showed children not only how animals see, but the whole design process from sketching to coding their own pair of eyes using the programming language &lsquo;Scratch&rsquo;. This way, the children were awakened to a range of valuable skills for the creative industries at a young age.</p>\n<p>SUPPORTED BY:&nbsp;<a class=\"button4\" href=\"https://www.artis.nl/\" target=\"_blank\" rel=\"noopener noreferrer\">ARTIS</a>&nbsp;|&nbsp;<a class=\"button4\" href=\"http://www.schoolbuurtwerk.nl/\" target=\"_blank\" rel=\"noopener noreferrer\">Juf op Straat</a></p>",
-    "location": {
-      "lat": "52.366092226678",
-      "lng": "4.9207133586578"
-    }
-  },
-  {
-    "id": 255,
-    "title": "The ice is melting at the pøules",
-    "icon": "artworks/November2019/Ice-is-melting.png",
-    "description": "<p>In the meantime, not only are we experiencing the disruptive effects of global warming, sea level rise and the increasing CO2 concentration more and more &ndash; like heat waves, floods and wildfires &ndash; climate change is also clearly demonstrated with data, gathered and interpreted by scientists around the world. The work of these scientists, and specifically the new types of graphs designed to visualise their findings, served as the inspiration for Martin Ersted&rsquo;s installation The Ice is Melting at the P&oslash;ules. Using two custom designed laser light machines, he creates a series of moving vertical lines based on British scientist Ed Hawkins&rsquo; beautiful &lsquo;warming stripes&rsquo;. These lines represent the global temperature rise over the past 169 years; blue is a relatively cool year, red a warm one. The stripes are alternated by a series of interlocked circles, depicting the rise of both temperature and CO2 levels worldwide. The changing height of the projection of both circles and stripes is, of course, also far from random: it corresponds to data on sea level rise.</p>\n<p>By combining hard, scientific facts and intense laser light, Ersted generates a performance that is simultaneously confronting and poetic. It is no coincidence that Ersted&rsquo;s installation can be seen on the facade of the Maritime Museum. From 4 October 2019 until 10 May 2020, the worldwide impact of the ice melt and sea level rise are the focus of the exhibitions Scramble for the Arctic and Rising Tide by Kadir van Lohuizen.</p>\n<p>Martin Ersted&rsquo;s laser light machines, Moon Machine I and Moon Machine II, are placed in a &lsquo;Tiny Office&rsquo; opposite the Maritime Museum, on the Kortjewantsbrug. At this office, you can listen to the soundtrack that Ersted composed in collaboration with Robotic Folk (Lithuania) for this artwork. The first part contains several famous qoutes on climate change sung by Karina Nuus Pedersen (Denmark); the second is inspired by the morse code SOS.</p>\n<p>SUPPORTED BY:&nbsp;<a class=\"button4\" href=\"https://www.hetscheepvaartmuseum.nl/\" target=\"_blank\" rel=\"noopener noreferrer\">Het Scheepvaartmuseum</a>&nbsp;|&nbsp;<a class=\"button4\" href=\"https://bllbrnd.dk/\" target=\"_blank\" rel=\"noopener noreferrer\">Ball &amp; Brand</a>&nbsp;|&nbsp;<a class=\"button4\" href=\"https://tinyoffice.dk/\" target=\"_blank\" rel=\"noopener noreferrer\">Tiny Office</a></p>",
-    "location": {
-      "lat": "52.371922389294",
-      "lng": "4.9145496423416"
-    }
-  },
-  {
-    "id": 256,
-    "title": "Big Bang",
-    "icon": "artworks/November2019/Big-Bang.png",
-    "description": "<p>It is meant to arouse fear, but those who come closer will also discover something surprising about the artwork: it is covered in soft feathers that mysteriously light up and occasionally make way for hundreds of small, twinkling lights. Strangely enough, this gives the bomb a softer, almost romantic, and above all, harmless appeal. The title of the artwork probably also refers to the other famous &lsquo;big bang&rsquo;, the one that created the universe, time, and space, and ultimately our planet.</p>\n<p>Where the first &lsquo;big bang&rsquo; set everything in motion, UxU Studio&rsquo;s big bang indicates the end. Tragically, we seem to be breaking down and exhausting the earth with our polluting industries, overpopulation, and wars. We hear, read and see news stories about that on a daily basis, and while they may shock us at first, we quickly go back to our own worries &ndash; it&rsquo;s as though we have become immune to it. How will you react when the chaos invades your safe environment? Will you feel fear, anger, or a sense of calmness?</p>\n<p>Luckily, it all remains a dark fantasy with this bomb&hellip;</p>",
-    "location": {
-      "lat": "52.372633092451",
-      "lng": "4.9084771211319"
-    }
-  },
-  {
-    "id": 257,
-    "title": "Icebreaker",
-    "icon": "artworks/November2019/Icebreaker.png",
-    "description": "<p>It&rsquo;s possible that climate change might make this typical Dutch phenomenon disappear altogether; skating on natural ice was added to national list of &lsquo;intangible heritage&rsquo; in 2016. The effects of the world&rsquo;s rising temperatures have been witnessed in the Netherlands. The last edition of the Elfstedentocht (or &lsquo;Eleven Cities Tour&rsquo;) was held in 1997; for more than 20 years, Dutch winters have not been cold enough to organise the infamous ice-skating competition.</p>\n<p>Climate change therefore not only disrupts nature, but also our culture and associated traditions. For Wihelmusvlug, the canal boat is equivalent to breaking the promise of skating on natural ice. When a canal boat makes its way through a frozen canal, there is a good chance that the fun will be over and only a few chunks of floating ice will remain. The contours of these chunks of ice can be seen in the artwork. Every time a boat passes through the installation, white and blue cracks burst through the ice on either side of the boat. This way, the ice is broken up again and again.</p>\n<p>SUPPORTED BY:&nbsp;<a class=\"button4\" href=\"https://www.stromma.com/nl-nl/amsterdam/\" target=\"_blank\" rel=\"noopener noreferrer\">Stromma Nederland</a></p>",
-    "location": {
-      "lat": "52.363625639753",
-      "lng": "4.9152738387756"
-    }
-  },
-  {
-    "id": 258,
-    "title": "Butterfly Effect",
-    "icon": "artworks/November2019/Butterfly-effect.png",
-    "description": "<p>The title of the artwork refers to American scientist and meteorologist Edward Lorenz&rsquo;s (1917-2008) 1961 lecture titled, &lsquo;Predictability, does the Flap of a Butterfly&rsquo;s Wings in Brazil Set Off a Tornado in Texas?&rsquo;. Lorenz researched how a seemingly insignificant action, such as a butterfly flapping its wings, can activate a chain of events that can result in much bigger changes, such as the emergence of a destructive tornado in Texas. Lorenz&rsquo;s butterfly effect is a metaphor; although not scientifically possible, it demonstrates how daily life, the weather, or the stock exchange have a certain degree of unpredictability, and that chaos or crisis is always just around the corner.</p>\n<p>In Masamichi&rsquo;s artwork, the enlightenment of the butterfly wings is a direct consequence of the movement of the water, which is caused by the passing of boats. It displays a miniature version of Lorenz&rsquo;s chain of cause and effect, but instead of being the cause of destructive power, the passing boats evoke unpredictably beautiful light patterns in the wings of the butterflies. Butterfly Effect, much like the rest of Masamichi&rsquo;s oeuvre, has a positive outlook on the world. The artist emphasizes that even though problems and challenges are seemingly big, a small act of just one person can make all the difference.</p>\n<p>SUPPORTED BY: <a href=\"https://amsterdamlightfestival.com/en/amsterdam-first-class-hotels\">Amsterdam First Class Hotels</a></p>",
-    "location": {
-      "lat": "52.364585430316",
-      "lng": "4.9112183387451"
-    }
-  },
-  {
-    "id": 259,
-    "title": "Neighborhood",
-    "icon": "artworks/November2019/Neighborhood.png",
-    "description": "<p>The washing lines are hung between houseboats and together, they create a friendly, neighbourhood feeling. It is this connection that is paramount for Sergey Kim; according to the artist, despite globalisation and the wealth of information exchange around the world, we increasingly fear foreigners. In large cities, people live in isolation, it&rsquo;s common not to know your neighbours. The artist hopes to send a positive message into the world by using something as every day and universal as drying laundry to represent an image of people coexisting harmoniously.</p>\n<p>Everything in Neighborhood emits light, from the garments to the clothes pegs and the washing line itself. Sergey is fascinated by the impact of light on everyday objects. Specifically, he&rsquo;s interested in how applying light can change an item&rsquo;s meaning entirely. He often uses light to come up with creative solutions. For example, he invented the first illuminated bicycle tires with his start-up Velooq. Will Neighborhood result in the first illuminated washing line?</p>",
-    "location": {
-      "lat": "52.37098895994",
-      "lng": "4.9032307202988"
-    }
-  },
-  {
-    "id": 260,
-    "title": "Nothing holding us",
-    "icon": "artworks/November2019/Nothing-holding-us.png",
-    "description": "<p>When the pause button is hit, as it were, the immenseness, violence, and impact of such events suddenly offer us time for reflection. With this artwork, Zamora wants to celebrate the change that can follow. His explosion represents growth or expansion that brings about something beautiful, from the expansion of the universe after the big bang to the sudden opening of a flower with the first rays of sunshine.</p>\n<p>As always, Zamora uses very minimal means &ndash; merely light tubes, or lines, in a suspended system &ndash; to create a large impact in Nothing Holding Us. The light does not move and yet the lines are positioned in a way that the spatial effect is different from every angle. While changing with your movement as a spectator, it remains equally recognisable, as though Zamora uses a simple but universal language of &lsquo;primordial signs&rsquo; that can be intuitively understood by everyone.</p>",
-    "location": {
-      "lat": "52.365253668088",
-      "lng": "4.9020827348404"
-    }
-  },
-  {
-    "id": 261,
-    "title": "Remind Euljiro Freedom",
-    "icon": "artworks/November2019/Remind-Euljiro.png",
-    "description": "<p>You can find them throughout Korea, but especially in Euljiro, one of the oldest neighbourhoods in the South Korean capital Seoul, an area that is now in danger of disappearing due to urban development plans. Remind Euljiro Freedom is an ode to this special place, where independent entrepreneurs, exceptional craftsmanship, and diversity prevail. The Euljiro neighbourhood has a unique ecosystem of around 10,000 specialized shops that employ about 50,000 craftsmen. You will also find many typical Korean restaurants, independent factories, and a close-knit community of artists. While this bustling neighbourhood was important for the post-war economic revival of the city in the 1950s, it currently has to make way for modern apartment complexes and expensive offices that are being built by the Korean government to give the neighbourhood a newer, more contemporary look. As a result, thousands of people are being forced to leave their homes, the unique ecosystem is disrupted, and the local history erased.</p>\n<p>EON SLD presents the illuminated advertisements of the repressed local entrepreneurs in Amsterdam to rethink the cultural and historical value of Euljiro as it is under the process of its disappearance. That&rsquo;s why the neon signs on the outer edge of the installation flicker as though they are broken. Other signs consist only of a framed border; they are empty on the inside to represent the gap that would result if the distinctive character of the Euljiro district were to disappear. The city of Seoul&rsquo;s urge to innovate and progress is not unique; in cities around the world, including Amsterdam, advancing gentrification is a major, disruptive problem. Though Remind Euljiro Freedom tells a local story, it is representative of many other cities around the world.</p>",
-    "location": {
-      "lat": "52.370723665892",
-      "lng": "4.912092738884"
-    }
-  },
-  {
-    "id": 262,
-    "title": "Surface Tension",
-    "icon": "artworks/November2019/Surface-Tension.png",
-    "description": "<p>A disaster scenario like that comes pretty close to home when you pass through Tom Biddulph and Barbara Ryan&rsquo;s installation Surface Tension. The artists have transformed part of Amsterdam&rsquo;s famous canal into a drowned city street: the spooky, glowing silhouettes of swept-up cars, lamp posts and traffic signs rise out of the water, a ghostly vision of what could happen. Biddulph and Ryan's background in graphic design is clearly visible in the piece: it is a spatial line drawing, made of light.</p>\n<p>The delicate ecosystem of our earth has evolved over billions of years, but is now being disrupted by human actions. It shouldn&rsquo;t be a surprise then, when nature disrupts our lives as a consequence. Due to manmade climate change and the big ice melt, water levels are rising and with it, the risk of devastating flooding around the world &ndash; including the Netherlands. Luckily, that&rsquo;s not the case in Amsterdam just yet, but let's all consider Surface Tension a fair warning...</p>\n<p>SUPPORTED BY:&nbsp;<a class=\"button4\" href=\"https://www.agv.nl/\" target=\"_blank\" rel=\"noopener noreferrer\">Waterschap Amstel Gooi en Vecht</a></p>",
-    "location": {
-      "lat": "52.368954998185",
-      "lng": "4.9127901132279"
-    }
-  },
-  {
-    "id": 263,
-    "title": "AD. Empty Domination",
-    "icon": "artworks/November2019/Ad-Empty-Domination.png",
-    "description": "<p>Contours, blocks and frames light up in the image, but their message is lost. Like an empty shell, withdrawn from its content, AD. Empty Domination is a response to the loud commercials that make up our streets. Research has shown that when people are on the move, they often have a positive attitude, are alert, make plans, and are open to visual communication. Too often brands have taken advantage of this, which has resulted in the fact that many of our public spaces are dominated by advertisements. The daily flood of hidden messages regarding how we should live and what we should think controls us and, in some cases, causes overstimulation. Breitner Academy students Pielkenrood, Watjer and Brand created a work of art that disrupts this vicious cycle and dominates the space with an overwhelming nothingness.</p>\n<p>Pielkenrood, Watjer and Brand enjoy experimenting with presenting everyday objects from new perspectives. By adapting the form and content of the advertising spaces, the artists hope that passers-by will reflect on the great influence that advertisements have in their lives. AD. Empty Domination is the sixth artwork that has resulted from the collaboration between Amsterdam Light Festival and the Breitner Academy, with the aim of introducing students to light art as well as offering them the opportunity to create an artwork for the festival through an intense internship.</p>\n<p>SUPPORTED BY:&nbsp;<a class=\"button4\" href=\"https://amsterdamsmartcity.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Amsterdam Smart City</a>&nbsp;|&nbsp;<a class=\"button4\" href=\"https://www.breitner.ahk.nl/\" target=\"_blank\" rel=\"noopener noreferrer\">Breitner Academie</a></p>",
-    "location": {
-      "lat": "52.375082801862",
-      "lng": "4.9091637666397"
-    }
-  }
-]
+  ]
+}
+
+
+
