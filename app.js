@@ -59,3 +59,10 @@ data.features.forEach((artwork) => {
       .join("");
   });
 });
+
+try {
+  "serviceWorker" in navigator &&
+    window.addEventListener("load", function () {
+      navigator.serviceWorker.register("/sw" + ".js");
+    });
+} catch (e) {}
