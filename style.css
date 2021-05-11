@@ -141,3 +141,24 @@ h1 img {
     transform: rotate(360deg);
   }
 }
+
+.mapboxgl-user-location-dot {
+  background: var(--highlight) !important;
+  animation: 3s breathe infinite ease;
+}
+.mapboxgl-user-location-dot::before,
+.mapboxgl-user-location-dot::after {
+  display: none;
+}
+
+@keyframes breathe {
+  0% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
