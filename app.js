@@ -1,4 +1,6 @@
-const data = require("./sanitised.json");
+import mapboxgl from "mapbox-gl";
+import data from "./sanitised.json";
+
 mapboxgl.accessToken =
   "pk.eyJ1IjoiYXNoa3lkIiwiYSI6ImNsajB0NWMifQ.A8PtczW284fnWFD6dy3xLQ";
 
