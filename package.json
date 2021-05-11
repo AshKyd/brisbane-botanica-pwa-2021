@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "build": "rm -rf build;parcel build index.html && workbox generateSW workbox-config.js"
+    "build": "rm -rf dist;parcel build index.html && workbox generateSW workbox-config.js"
   },
   "author": "",
   "license": "ISC",
