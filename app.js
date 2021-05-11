@@ -49,7 +49,7 @@ data.features.forEach((artwork) => {
     contentBox.classList.remove("closed");
     const { artist, name, description, media, link } = artwork.properties;
     contentEl.innerHTML = [
-      `<article class="article"><h2>${name}</h2>`,
+      `<article class="artwork"><h2>${name}</h2>`,
       artist && `<p class="artwork__artist">By <strong>${artist}</strong></p>`,
       description && `<div class="artwork__description">${description}</div>`,
       media && `<p class="artwork__media">${media}</p>`,

@@ -6,6 +6,7 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
+  box-sizing: border-box;
 }
 body {
   height: 100vh;
@@ -46,13 +47,29 @@ g[fill="#3FB1CE"] {
   width: 100%;
   height: 100%;
   overflow: auto;
-  padding-top: 40px;
   z-index: 100;
   background: black;
   color: #aaaaad;
   transition: all 0.3s;
-  padding: 20px;
   box-sizing: border-box;
+}
+.content__popup {
+  padding: 40px 20px 20px;
+}
+
+@media (min-width: 800px) {
+  .content {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  .content__popup {
+    background-color: black;
+    position: absolute;
+    width: 800px;
+    height: 600px;
+    overflow: auto;
+    left: calc(50% - 400px);
+    top: calc(50% - 300px);
+  }
 }
 .content button {
   border: none;
@@ -63,7 +80,7 @@ g[fill="#3FB1CE"] {
 }
 
 .content.closed {
-  transform: translatex(-100%);
+  transform: translatey(100%);
   opacity: 0;
 }
 
@@ -77,10 +94,17 @@ h1 {
   color: var(--highlight);
   font-size: 16px;
   padding: 15px;
+  display: flex;
+  align-items: center;
+}
+h1 img {
+  margin-right: 10px;
+  width: 32px;
+  height: 32px;
+  margin-top: -4px;
 }
 
 .artwork {
-  max-width: 35em;
   line-height: 1.3;
 }
 .artwork__artist,
